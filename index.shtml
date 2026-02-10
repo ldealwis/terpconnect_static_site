@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Lina's page</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.ico">
+</head>
+
+<body id="font">
+
+    <h1>Render Info</h1>
+    <ul>
+        <li><b>Name:</b> Lina De Alwis</li>
+        <li><b>Render Location:</b></li>
+    </ul>
+
+    <h1>Market Share of Phone Brands</h1>
+
+    <table>
+        <caption>Market Share of Phone Brands in 2025 (in %)</caption>
+
+        <thead>
+            <tr>
+                <th>Brand</th>
+                <th>Market Share</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Apple</td>
+                <td>19.87%</td>
+            </tr>
+            <tr>
+                <td>Samsung</td>
+                <td>17.45%</td>
+            </tr>
+            <tr>
+                <td>Oppo</td>
+                <td>8.14%</td>
+            </tr>
+            <tr>
+                <td>Xiaomi</td>
+                <td>14.21%</td>
+            </tr>
+            <tr>
+                <td>Vivo</td>
+                <td>9.23%</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        <a href="https://www.youtube.com/watch?v=2jO0HVCqDGM">
+            Best Selling Phones throughout History
+        </a>
+    </p>
+
+    <img src="applelogo.png" width="120" height="80" alt="Apple logo">
+
+    <p>
+        <strong>Last Modified:</strong>
+        <!--#echo var="LAST_MODIFIED" -->
+    </p>
+
+</body>
+</html>
